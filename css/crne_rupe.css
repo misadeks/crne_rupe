@@ -191,6 +191,10 @@ body {
     background-color: transparent !important;
 }
 
+.height_100{
+    height: 100%;
+}
+
 /* MEDIA */
 
 @media (min-width: 1200px) .cover-container {
