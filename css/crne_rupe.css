@@ -272,11 +272,11 @@ body {
     }
 
     50% {
-        opacity: 80%;
+        opacity: 90%;
     }
 
     75% {
-        opacity: 45%;
+        opacity: 30%;
     }
 
     100% {
