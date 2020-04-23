@@ -38,7 +38,7 @@ body {
 }
 
 .content-page::after {
-    background-image: url(../img/zvezde.png);
+    background-image: url(../img/zvezde1.png);
     background-position: center;
     background-repeat: repeat-y;
     background-attachment: scroll;
@@ -50,6 +50,7 @@ body {
     position: absolute;
     z-index: -1;
     animation: mymove 2.5s cubic-bezier(0.38, 0.57, 0.57, 0.43) infinite;
+    -webkit-animation: mymove 2.5s cubic-bezier(0.38, 0.57, 0.57, 0.43) infinite;
 }
 
 .content-page.galerija {
