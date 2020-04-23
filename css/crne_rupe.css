@@ -49,8 +49,8 @@ body {
     right: 0;
     position: absolute;
     z-index: -1;
-    animation: mymove 2.5s cubic-bezier(0.38, 0.57, 0.57, 0.43) infinite;
     -webkit-animation: mymove 2.5s cubic-bezier(0.38, 0.57, 0.57, 0.43) infinite;
+    animation: mymove 2.5s cubic-bezier(0.38, 0.57, 0.57, 0.43) infinite;
 }
 
 .content-page.galerija {
